@@ -1,8 +1,11 @@
-# Hi, I am Beslan 👋!
+# 👋 Hi, I am Beslan
 
-###fullstack developer...
+## 💻 Fullstack Developer
 
-### 🛠️ Tech Stack:
+---
+
+### 🛠️ Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -11,6 +14,9 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-### 📫 Contacts:
-- Telegram: [@Skalette_1](https://t.me/Skalette_1)
-- Email: beslandudaev@gmail.com
+---
+
+### 📫 Contacts
+
+- 📬 Email: [beslandudaev@gmail.com](mailto:beslandudaev@gmail.com)
+- 💬 Telegram: [@Skalette_1](https://t.me/Skalette_1)
