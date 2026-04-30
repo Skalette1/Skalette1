@@ -19,4 +19,4 @@
 ### 📫 Contacts
 
 - 📬 Email: [beslandudaev@gmail.com](mailto:beslandudaev@gmail.com)
-- 💬 Telegram: [@Skalette_1](https://t.me/Skalette_1)
+- 💬 Telegram: [@g1osag](https://t.me/Skalette_1)
